@@ -1,4 +1,4 @@
-package src;
+package src.simUDuck;
 
 public class MallardDuck extends Duck{
     @Override

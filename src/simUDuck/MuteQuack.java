@@ -1,4 +1,4 @@
-package src;
+package src.simUDuck;
 
 public class MuteQuack implements QuackBehaviour{
     @Override

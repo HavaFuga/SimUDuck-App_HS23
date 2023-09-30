@@ -1,4 +1,4 @@
-package src;
+package src.simUDuck;
 
 public abstract class Duck {
     FlyBehaviour flyBehaviour;

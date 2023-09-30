@@ -1,4 +1,4 @@
-package src;
+package src.simUDuck;
 
 public class RubberDuck extends Duck{
     QuackBehaviour quackBehaviour = new MuteQuack();

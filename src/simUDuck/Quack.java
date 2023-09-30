@@ -1,4 +1,4 @@
-package src;
+package src.simUDuck;
 
 public class Quack implements QuackBehaviour{
     @Override
